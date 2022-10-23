@@ -1,0 +1,1 @@
+g++ testCam.cpp leptonFun.cpp SPI.cpp Palettes.cpp Lepton_I2C.cpp libLEPTON_SDK.a -o testCam
